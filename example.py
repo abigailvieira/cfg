@@ -1,7 +1,8 @@
 # GIT FLOW
 # 1. git add <filename>
 # 2. git commit <filename> -m "my message"
-# 3. 
+# 3. git push --set-upstream origin main (shorthand: git push -u origin main)
+# 4. git push only
 
 # MISC COMMANDS
 # git status
